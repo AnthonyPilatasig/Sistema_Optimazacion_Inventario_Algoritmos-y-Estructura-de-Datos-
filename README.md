@@ -247,7 +247,7 @@ private double knapsackTopDown(Producto[] productos, int capacidad, int n, Doubl
 
 1. **Clonar o descargar el proyecto**
    ```bash
-   git clone https://github.com/usuario/sistema-optimizacion-inventario.git
+   git clone https://github.com/AnthonyPilatasig/Sistema_Optimazacion_Inventario_Algoritmos-y-Estructura-de-Datos-.git
    ```
 
 2. **Importar en Eclipse**
